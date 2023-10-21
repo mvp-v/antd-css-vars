@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  gap: var(--antd-padding-content-horizontal);
+
+  .container {
+    background-color: var(--antd-green-1);
+    border-radius: var(--antd-border-radius);
+    box-shadow: var(--antd-box-shadow);
+    padding: var(--antd-padding);
+  }
+}
